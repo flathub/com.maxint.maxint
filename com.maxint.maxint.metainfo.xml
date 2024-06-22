@@ -69,11 +69,12 @@
   </screenshots>
   <launchable type="desktop-id">com.maxint.maxint.desktop</launchable>
   <releases>
+    <release version="2.1.1" date="2024-06-22"/>
     <release version="2.1.0" date="2024-06-15">
-      <description></description>
+      <description/>
     </release>
     <release version="2.0.0" date="2024-04-29"/>
   </releases>
   <update_contact>krtirtho@maxint.com</update_contact>
-  <content_rating type="oars-1.1" />
+  <content_rating type="oars-1.1"/>
 </component>
