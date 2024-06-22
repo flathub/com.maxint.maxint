@@ -12,8 +12,7 @@ finish-args:
   - --socket=pulseaudio
   - --share=network
   - --filesystem=xdg-download
-
-modules:    
+modules:
   - name: maxint
     buildsystem: simple
     build-commands:
@@ -26,8 +25,8 @@ modules:
     sources:
       - type: archive
         dest: maxint
-        url: https://github.com/maxint-app/builds/releases/download/2.1.0/Maxint-linux-x86_64.tar.xz
-        sha256: bcaf2b5b795806a86fc9f018b9c6828977b413de3c2575b2baaf886ef427505d
+        url: https://github.com/maxint-app/builds/releases/download/2.1.1/Maxint-linux-x86_64.tar.xz
+        sha256: 972cbc145cfd4ef459aeefbbfd485fb2ce069804f82fab4205bcea421a9da49e
       - type: file
         path: com.maxint.maxint.metainfo.xml
       - type: file
