@@ -14,9 +14,10 @@
     <name>Maxint Inc</name>
   </developer>
   <url type="homepage">https://maxint.com</url>
+  <icon type="remote">https://imagedelivery.net/8o3zfd9BMX3OaI5PeVdWFw/5af35eb6-fcf9-4e27-b3ef-64a3adfa5200/public</icon>
   <description>
-    <p>Maxint is an <em>open-banking</em> Mint alternative.</p>
-    <p>Sign up with 2FA, link your bank accounts, enrich transactions, craft budgets, get bill notifications and find best banks to maximize your interest.</p>
+    <p>Maxint is your all-in-one personal finance solution.</p>
+    <p>Take control of your money with easy budgeting, saving, and investment tools. Track expenses, set financial goals, and watch your net worth grow. Our banking app simplifies money management, helping you make informed financial decisions.</p>
     <p>A list of features</p>
     <ul>
       <li>Link any bank, catch account fees</li>
@@ -28,10 +29,11 @@
       <li>Explore high-yield offers, maximize your interest</li>
       <li>Compare credit card rewards, based on your spending</li>
     </ul>
+    <p>Download Maxint now and start your journey to financial freedom!</p>
   </description>
   <branding>
-    <color type="primary" scheme_preference="light">#fbfdf8</color>
-    <color type="primary" scheme_preference="dark">#191c1a</color>
+    <color type="primary" scheme_preference="light">#8fd5b0</color>
+    <color type="primary" scheme_preference="dark">#236a4c</color>
   </branding>
   <screenshots>
     <screenshot type="default">
