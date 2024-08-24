@@ -22,7 +22,6 @@ modules:
       - type: git
         url: https://gitlab.gnome.org/GNOME/zenity.git
         tag: 4.0.2
-
   - name: maxint
     buildsystem: simple
     build-commands:
@@ -35,8 +34,8 @@ modules:
     sources:
       - type: archive
         dest: maxint
-        url: https://github.com/maxint-app/builds/releases/download/2.3.0/Maxint-linux-x86_64.tar.xz
-        sha256: 78e322728a4cab3c935baf4525c02464a42f8e1f8bc26b0c660c3191bb570a7a
+        url: https://github.com/maxint-app/builds/releases/download/2.3.1/Maxint-linux-x86_64.tar.xz
+        sha256: c60e83b1e84195ec0d828fc0565db6863c8cb27b606892e974cf8138ac990835
       - type: file
         path: com.maxint.maxint.metainfo.xml
       - type: file
