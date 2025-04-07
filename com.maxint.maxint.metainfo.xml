@@ -71,6 +71,7 @@
   </screenshots>
   <launchable type="desktop-id">com.maxint.maxint.desktop</launchable>
   <releases>
+    <release version="2.10.1" date="2025-04-07"/>
     <release version="2.10.0" date="2025-03-29"/>
     <release version="2.9.1" date="2025-03-06"/>
     <release version="2.9.0" date="2025-02-25"/>
