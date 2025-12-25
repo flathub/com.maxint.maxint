@@ -34,8 +34,8 @@ modules:
     sources:
       - type: archive
         dest: maxint
-        url: https://github.com/maxint-app/builds/releases/download/2.18.0/Maxint-linux-x86_64.tar.xz
-        sha256: 48043c0f69ac17513f5080c78348210928a898f3a184f0c02558524b32af83dc
+        url: https://github.com/maxint-app/builds/releases/download/2.19.1/Maxint-linux-x86_64.tar.xz
+        sha256: 4c8ddfbb2cf388ccb5c3a80a2c55b239588c1ae6c61868cf14c185f3620a8606
       - type: file
         path: com.maxint.maxint.metainfo.xml
       - type: file
