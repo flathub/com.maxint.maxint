@@ -5,6 +5,8 @@ runtime: org.gnome.Platform
 runtime-version: '50'
 sdk: org.gnome.Sdk
 command: maxint
+tags:
+  - proprietary 
 finish-args:
   - --share=ipc
   - --socket=fallback-x11
@@ -21,7 +23,8 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/GNOME/zenity.git
-        tag: 4.0.2
+        tag: 4.2.2
+        commit: c0f30c18e55b6a0cf5c2deb1c7449debb79027dc
   - name: maxint
     buildsystem: simple
     build-commands:
