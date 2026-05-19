@@ -5,6 +5,8 @@ runtime: org.gnome.Platform
 runtime-version: '48'
 sdk: org.gnome.Sdk
 command: maxint
+tags: 
+  - proprietary
 finish-args:
   - --share=ipc
   - --socket=fallback-x11
