@@ -21,6 +21,7 @@ modules:
     build-commands:
       - mkdir -p ${FLATPAK_DEST}/share/icons/hicolor
     cleanup:
+      - /share/applications
       - /share/doc
       - /share/help
       - /share/icons
