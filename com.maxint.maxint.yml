@@ -24,6 +24,7 @@ modules:
       - /share/doc
       - /share/help
       - /share/icons
+      - /share/man
     sources:
       - type: git
         url: https://gitlab.gnome.org/GNOME/zenity.git
