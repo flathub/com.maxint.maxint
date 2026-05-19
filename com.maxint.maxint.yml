@@ -20,6 +20,10 @@ modules:
     buildsystem: meson
     build-commands:
       - mkdir -p ${FLATPAK_DEST}/share/icons/hicolor
+    cleanup:
+      - /share/doc
+      - /share/help
+      - /share/icons
     sources:
       - type: git
         url: https://gitlab.gnome.org/GNOME/zenity.git
