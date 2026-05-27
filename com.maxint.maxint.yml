@@ -6,7 +6,7 @@ runtime-version: '50'
 sdk: org.gnome.Sdk
 command: maxint
 tags:
-  - proprietary 
+  - proprietary
 finish-args:
   - --share=ipc
   - --socket=fallback-x11
@@ -43,8 +43,8 @@ modules:
     sources:
       - type: archive
         dest: maxint
-        url: https://github.com/maxint-app/builds/releases/download/2.22.1/Maxint-linux-x86_64.tar.xz
-        sha256: 5a586565657aa9c9de093f585bc3be17f0458d9dbe2a5a9af7711af18adbe027
+        url: https://github.com/maxint-app/builds/releases/download/2.23.0/Maxint-linux-x86_64.tar.xz
+        sha256: d10949c9ae39827ad7ea88b88ce753f88ba9826074efe3fbdd926b025e37e791
       - type: file
         path: com.maxint.maxint.metainfo.xml
       - type: file
