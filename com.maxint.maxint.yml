@@ -43,8 +43,8 @@ modules:
     sources:
       - type: archive
         dest: maxint
-        url: https://github.com/maxint-app/builds/releases/download/2.25.1/Maxint-linux-x86_64.tar.xz
-        sha256: fad03fdf58e2cdd2ce1cc2a3dde6538faef090f1a10988f7907e5f055b0d9753
+        url: https://github.com/maxint-app/builds/releases/download/2.25.2/Maxint-linux-x86_64.tar.xz
+        sha256: d5475c85102c9a5fcaa6faa29b4e43edd0109caab4df41756c151f62b1114ab0
       - type: file
         path: com.maxint.maxint.metainfo.xml
       - type: file
